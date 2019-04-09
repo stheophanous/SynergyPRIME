@@ -1,0 +1,8 @@
+
+<GIS_IMPORTER>
+    <importer>centroids</importer>
+    <Units>1</Units>
+    <Codec>System</Codec>
+    <ColumnEID>NEAR_FID</ColumnEID>
+    <ColumnName>name</ColumnName>
+</GIS_IMPORTER>
